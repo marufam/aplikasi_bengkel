@@ -1,0 +1,17 @@
+{
+	"main": "index.html",
+	"name": "Application",
+	"description": "Bengkel",
+	"version": "1.0.0.0",
+	"window": {
+		"icon": "logo.png",
+		"toolbar": false,
+		"width": 1200,
+		"height": 800,
+		"position": "center",
+		"show": false
+	},
+	"dom_storage_quota": 50,
+	"user-agent": "Mozilla/5.0 (%osinfo) AppleWebKit/%webkit_ver (KHTML, like Gecko, Chrome, Safari) NodeWebkit/%nwver",
+	"chromium-args": "--disable-extensions --disable-plugins --disable-internal-flash --disable-popup-blocking --enable-gamepad --enable-html5-camera --allow-file-access-from-files"
+}
